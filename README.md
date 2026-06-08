@@ -3,8 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=lxouiis&color=blue" alt="Profile Views"/>
 
 ## About Me
-
-🎓 B.Tech Computer Science & Engineering Student (2027)
+Computer Vision and Medical AI-focused B.Tech CSE student (2027) with three research publications in few-shot learning and transformer-based recognition — including a Best Paper Award at SCI-2026 (International Conference, Vietnam). Currently building CEVI, a clinical AI platform for automated varicose vein assessment in active deployment at JNMC Belgaum, and a multimodal emotion-aware RAG chatbot for mental health support. Seeking ML/CV or Medical AI internship roles and research collaborations
 
 🔬 Researcher in:
 - Computer Vision
