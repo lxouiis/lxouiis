@@ -133,7 +133,7 @@ IEEE ICSIPA 2026
 
 📧 hemantdarur@gmail.com
 
-💼 LinkedIn: <YOUR_LINKEDIN>
+💼 LinkedIn: https://www.linkedin.com/in/hemant-darur-1527b7249/
 
 🐙 GitHub: https://github.com/lxouiis
 
