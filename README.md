@@ -3,7 +3,7 @@
 <img src="https://komarev.com/ghpvc/?username=lxouiis&color=blue" alt="Profile Views"/>
 
 ## About Me
-Computer Vision and Medical AI-focused B.Tech CSE student (2027) with three research publications in few-shot learning and transformer-based recognition — including a Best Paper Award at SCI-2026 (International Conference, Vietnam). Currently building CEVI, a clinical AI platform for automated varicose vein assessment in active deployment at JNMC Belgaum, and a multimodal emotion-aware RAG chatbot for mental health support. Seeking ML/CV or Medical AI internship roles and research collaborations
+Full-stack AI engineer who builds and ships across frontend, backend, and ML. Deployed a clinical AI platform live at JNMC Belgaum hospital (MedSAM + FastAPI + React + MySQL) cutting assessment time from 20 min to under 5. Three research publications including Best Paper Award at SCI-2026. Figures things out independently and ships to production.
 
 🔬 Researcher in:
 - Computer Vision
